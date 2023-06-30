@@ -1,3 +1,7 @@
 Estamos estudiando para mañana
 
-creando archivo con los datos que aprendimos
+creando archivo con los datos que aprendimos 
+
+Aprendimos a subir repositorio en la nube de github
+
+
